@@ -1,0 +1,91 @@
+body{
+    background-color: purple;
+}
+
+.square{
+    height: 500px;
+    width: 400px;
+    background-image: linear-gradient(180deg, rgb(248, 229, 232), rgb(206, 137, 148));
+    position: relative;
+    left: 400px;
+    top: 100px;
+    border-radius: 15px;
+}
+
+
+.square5{
+    height: 450px;
+    width: 360px;
+    background-color:white;
+    position: relative;
+    left: 420px;
+    bottom: 360px;
+    border-radius: 15px;
+}
+
+.square10{
+    height: 390px;
+    width: 300px;
+    background-color:white;
+    position: relative;
+    left: 450px;
+    bottom: 775px;
+    border-radius: 15px;
+    border-style: dashed;
+    border-width:2px;
+    border-color: antiquewhite;
+}
+
+.squarebottom{
+    height: 40px;
+    width: 250px;
+    background-color: #FFCACA;
+    position: relative;
+    bottom: 840px;
+    left: 480px;
+}
+
+
+h5{
+    height: 201px;
+    width: 984px;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    bottom: 1120px;
+    left: 550px;
+}
+
+h2{
+    height: 50px;
+    width: 1000px;
+    font-size:20px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: #FFCACA;
+    position: relative;
+    bottom: 1500px;
+    left: 499px;
+    letter-spacing:5px;
+}
+
+h4{
+    height: 50px;
+    width: 1000px;
+    font-size: 10px;
+    font-family: Roboto;
+    font-weight: lighter;
+    color: #FFCACA;
+    position: relative;
+    bottom: 1530px;
+    left: 550px;
+    letter-spacing: 5px;
+}
+
+img{
+    position: relative;
+    left: 470px;
+    bottom: 1199px;
+}
